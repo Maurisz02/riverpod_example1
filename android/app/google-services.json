@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "827279476566",
+    "project_id": "flutter-riverpod-instagram",
+    "storage_bucket": "flutter-riverpod-instagram.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827279476566:android:41fd659e30fac6ccb638f7",
+        "android_client_info": {
+          "package_name": "com.example.riverpod_example1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827279476566-p6ui8ulec0a4gq29itrvpv6pffm3q6bt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.riverpod_example1",
+            "certificate_hash": "e72cf6fb8c52659c3fbdfe0755978adfb3356131"
+          }
+        },
+        {
+          "client_id": "827279476566-g4dd8q0dk6tffsn86i48ggt3qpg0o6jt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-s0oFiy-uFJtlPYTIvVmrwIcoCqwg6Ng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827279476566-g4dd8q0dk6tffsn86i48ggt3qpg0o6jt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

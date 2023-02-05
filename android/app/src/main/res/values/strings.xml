@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+<string name="facebook_app_id">8239660829441346</string>
+<string name="fb_login_protocol_scheme">fb8239660829441346</string>
+<string name="facebook_client_token">6b69af8fc1ac7c4f0cae09947ab789f2</string>
+<string name="app_name">Riverpod Image Sharing</string>
+
+</resources>
